@@ -27,8 +27,7 @@ _____________________________________________________________________
 <div align="center">
 <h3>(3)        Northstar & carryover customers : </h3>
 
-Older people are the "North Star" as she stated in our team meeting. 
-Fourty and up years of age; and we will design it in a way that a 70 year old can use it with ease. 
+Our northstar is oriented around donors (tend to be older people; 40+ years of age) and it comes down to all business owners, foundation owners, donor beneficiaries etc
 Everyone else is a carryover customer since if someone of old age can use it than someone of young age theoretically can.
 
 
