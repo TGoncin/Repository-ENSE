@@ -29,7 +29,7 @@ _____________________________________________________________________
 
 Older people are the "North Star" as she stated in our team meeting. 
 Fourty and up years of age; and we will design it in a way that a 70 year old can use it with ease. 
-Everyone else is a carryovr customer since if someone of old age can use it than someone of young age theoretically can.
+Everyone else is a carryover customer since if someone of old age can use it than someone of young age theoretically can.
 
 
 _____________________________________________________________________
