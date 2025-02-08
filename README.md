@@ -27,7 +27,7 @@ _____________________________________________________________________
 <div align="center">
 <h3>(3)        Northstar & carryover customers : </h3>
 
-Our northstar is oriented around donors (tend to be older people; 40+ years of age) and it comes down to all business owners, foundation owners, donor beneficiaries etc
+Our northstar is oriented around donors (tend to be older people; 40+ years of age) and it comes down to all business owners, foundation owners, donor beneficiaries, etc.
 Everyone else is a carryover customer since if someone of old age can use it than someone of young age theoretically can.
 
 
