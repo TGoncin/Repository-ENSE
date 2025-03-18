@@ -1,5 +1,5 @@
  <br> </b>
-## <ins>______________________________  ▂  ▄  ▅  ▆  Tommy's Github  ▆ ▅ ▄ ▂  _____________________________</ins>
+## <ins>_________________________  ▂  ▄  ▅  ▆  Tommy's Github  ▆ ▅ ▄ ▂  ________________________</ins>
 <br> </b>
 
 ![image](https://github.com/user-attachments/assets/d2de4760-afcc-4a48-b2a6-09ac9a765d8b)
@@ -8,11 +8,10 @@
 <br> </b>
 ## Portfolio Summary
 <br> </b>
-
-Currently, this repository is for coursework related to the Software Systems Engineering program at the University of Regina. A separate repository will house my personal portfolio. 
+	 Currently, this repository is for coursework related to the Software Systems Engineering program at the University of Regina. A separate repository will house my personal portfolio. 
 <br> </b>
 <br> </b>
-This lab introduces tools for people-centered design, such as GitHub, StoriesOnBoard, and Figma. It also covers the fundamentals of Content Management Systems (CMS) using WordPress, including environment and theme management. These timed labs are designed to support the development of the course project.
+	 This lab introduces tools for people-centered design, such as GitHub, StoriesOnBoard, and Figma. It also covers the fundamentals of Content Management Systems (CMS) using WordPress, including environment and theme management. These timed labs are designed to support the development of the course project.
 <br> </b>
 <br> </b>
 <br> </b>
