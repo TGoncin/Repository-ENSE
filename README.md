@@ -1,20 +1,16 @@
  <br> </b>
-
-## <ins>___________________________  ▂ ▄ ▅ ▆  Tommy's Github  ▆ ▅ ▄ ▂  __________________________</ins>
-
+## <ins>______________________________  ▂  ▄  ▅  ▆  Tommy's Github  ▆ ▅ ▄ ▂  _____________________________</ins>
 <br> </b>
-![alt text]C:\Users\tgj616\Downloads\mulyadi-thN6K0S-rR8-unsplash.jpg
-![image](https://github.com/user-attachments/assets/468b3fc0-3c7a-4cd2-bd6b-629af0fea046)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-___________________________________________________________________________________________________________________________________________________________________
-___________________________________________________________________________________________________________________________________________________________________
-                                           
+
+![image](https://github.com/user-attachments/assets/d2de4760-afcc-4a48-b2a6-09ac9a765d8b)
 
 <br> </b>
 <br> </b>
-## Goal Summary
+## Portfolio Summary
 <br> </b>
-To address the South Saskatchewan Community Foundation's need for accessible resources, we're designing a clear, navigable website section for charities and foundations, leveraging our semester's learning."
+
+Current just a repository for a Software Systems Engineering course.<br> </b>
+Personal portfolio will be created with another title.
 
 <br> </b>
 ___________________________________________________________________________________________________________________________________________________________________
@@ -24,18 +20,32 @@ ________________________________________________________________________________
 <div style="text-align: center;">
   <table style="font-size: 20px; margin: 0 auto;">
     <tr>
-      <th>Group Members:</th>
-      <th>Tom</th>
-      <th>Zifran</th>
-      <th>Gabriel</th>
-      <th>Charles</th>
+      <th>Lab Number</th>
+      <th> 1 </th>
+      <th>2</th>
+      <th>3</th>
+      <th>4</th>
+      <th>5</th>
+      <th> 6 </th>
     </tr>
     <tr>
-      <td>Email</td>
-      <td>tgj616@uregina.ca</td>
-      <td>zkc929@uregina.ca</td>
-      <td>ggb676@uregina.ca</td>
-      <td>No Show</td>
+      <td>Description</td>
+      <td>Git / User Story Mapping</td>
+      <td>Asset Inventories and Sitemaps</td>
+      <td>Wireframes in Figma</td>
+      <td>High-Fi Prototypes in Figman</td>
+      <td>Wordpress Environment Setup</td>
+      <td>Wordpress Themes and Design</td>
+          </tr>
+    <tr>
+      <td>Direct Link</td>
+      <td>This site was built using [GitHub Pages](https://pages.github.com/).</td>
+      <td>Asset Inventories and Sitemaps</td>
+      <td>Wireframes in Figma</td>
+      <td>High-Fi Prototypes in Figman</td>
+      <td>Wordpress Environment Setup</td>
+      <td>Wordpress Themes and Design</td>
+     
     </tr>
     <tr>
       <td>ID</td>
